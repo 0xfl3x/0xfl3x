@@ -1,5 +1,13 @@
 # 0xfl3x
 
+Smart Contract Security Researcher
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xfl3x&show_icons=true&theme=dark)
+
+
+
+# 0xfl3x
+
 Smart Contract Security Researcher.
 
 ## Competitions
