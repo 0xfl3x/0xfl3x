@@ -1,18 +1,12 @@
 # 0xfl3x
 
-Smart Contract Security Researcher.
+Smart Contract Security Researcher — building AI-assisted audit tooling.
 
-## Competitions
-| Platform | Profile |
+## Focus
+| | |
 |---|---|
-| Sherlock | [0xfl3x](#) |
-| Cantina | [0xfl3x](#) |
-| Code4rena | [0xfl3x](#) |
-
-## Findings
-| Contest | Severity | Protocol |
-|---|---|---|
-| ... | High | ... |
+| **Security** | Solidity / EVM protocol audits |
+| **AI** | Custom Claude Code audit pipeline — skills, agents, workflows |
 
 ## Contact
 | | |
